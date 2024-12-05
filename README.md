@@ -1,10 +1,8 @@
 Hi, I’m @ParadiseLoop (Daniel),
 
-I am a Junior Data Scientist, currently employed as Business Analyst,
-Passionate about AI, its technology and how it shapes our present, 
-and always up to put it to good use.
+Hi, I’m Daniel, a Data Engineer passionate about the complexities of technology and how the ways it shapes our present!
 
-I love squeezing my brains around ML models and try to figure out how it all works;
+I love squeezing my brains around some code and try to figure out how it all works;
 
 I am a master at failing, and I'm here to learn :)
 
